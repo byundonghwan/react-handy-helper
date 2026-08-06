@@ -2,3 +2,4 @@
 react project
 - `clamp` helper
 - `chunk` helper
+- `chunk` helper
