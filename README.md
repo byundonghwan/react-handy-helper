@@ -4,3 +4,4 @@ react project
 - `chunk` helper
 - `chunk` helper
 - `sum` helper
+- `sum` helper
